@@ -89,7 +89,7 @@ sudo npm install -g pm2
 #### 3. Sklonuj repozytorium GitHub:
 ```bash
 cd /var/www
-git clone https://github.com/TWOJA_NAZWA_UZYTKOWNIKA/oplast-asist.git
+git clone https://github.com/Rafson83/oplast-asist.git
 cd oplast-asist
 ```
 
